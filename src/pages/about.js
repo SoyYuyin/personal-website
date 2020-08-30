@@ -42,7 +42,7 @@ const About = () => {
                     Phone number: <a href="tel:+(52)4921249235">+(52) 492-124-9235</a>
                     </li> */}
                     <li>
-                    Linkedin: <a href="https://www.linkedin.com/in/soyyuyin/" target='_blank'>linkedin.com/in/soyyuyin/</a>
+                    Linkedin: <a href="https://www.linkedin.com/in/soyyuyin/" target='blank'>linkedin.com/in/soyyuyin/</a>
                     </li>
                     <li>
                       <a href='/Eugenio_Martínez_Resume_09-2020.pdf' target="_blank">Get my CV</a>
