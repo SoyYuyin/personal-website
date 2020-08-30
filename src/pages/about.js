@@ -63,6 +63,9 @@ const About = () => {
                 <li>Gatsby</li>
                 <li>Python</li>
                 <li>SQL</li>
+                <li>Git</li>
+                <li>Contenful</li>
+                <li>Netlify</li>
                 <li>Responsive design</li>
               </ul>
             </section>            
@@ -79,13 +82,14 @@ const About = () => {
                   <p>Static website using plain HTML and CSS, hosted on Netlify</p>
                 </a>
             </section>
-            <h3>Languages</h3>
 
-            <ul>
-              <li>Spanish (native)</li>
-              <li>English</li>
-            </ul>
-
+            <section className={styles.technologies}>
+              <h3>Languages</h3>
+              <ul>
+                <li>Spanish (native)</li>
+                <li>English</li>
+              </ul>
+            </section>          
             {/* <h3>Contact me</h3>
             <ul>
               <li>
