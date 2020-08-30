@@ -1,1 +1,1 @@
-## Here you can find my cv, projects and my Blog!
+## Here you can find my CV, projects and my Blog!
