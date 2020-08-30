@@ -1,0 +1,53 @@
+$primary-dark-color:rgb(160, 160, 160);
+$secondary-dark-color: rgb(17, 19, 19);
+
+.container {
+  display: grid;
+  grid-template-columns: 1fr 2fr;
+  grid-template-rows: 1fr;
+  justify-content: space-between;
+}
+
+.content {
+  display:flex;
+  flex-direction: column;
+  font-family: 'Open Sans', sans-serif;
+  flex-grow: 1;
+  flex:1;
+  margin-left: 2rem;
+}
+
+@media only screen and (max-width: 500px) {
+  .container {
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: 1fr;
+  }
+
+  
+  .content {
+    margin-left: 0;
+  }
+}
+
+
+
+.link {
+  color:white;
+  text-decoration: none;
+  padding: 1rem;
+  background-color: $secondary-dark-color;
+  width: 4rem;
+  border: 2px white solid;
+}
+
+.link:hover{
+  background-color: $primary-dark-color;
+  border: 2px black solid;
+  color: black;
+  font-weight: bold;
+}
+
+.textCenter{
+  text-align: center;
+}

@@ -1,0 +1,36 @@
+// colors
+$primary-color: white;
+$primary-dark-color:rgb(160, 160, 160);
+$secondary-color:rgb(49, 53, 53);
+$secondary-light-color: rgb(73, 78, 78);
+$secondary-dark-color: rgb(17, 19, 19);
+
+.navitem{
+  text-decoration: none;
+  color: $primary-dark-color;
+  font-size: .9rem;
+  padding: 1rem 1rem;
+
+}
+// 1:26:46
+nav{
+  display:flex;
+  justify-content: center;
+}
+
+ nav ul {
+  display: flex;
+  list-style-type: none;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  padding-inline-start: 0;
+}
+
+.navitem:hover {
+  background-color: $secondary-light-color;
+}
+
+.activeNavItem {
+  color: $primary-color;
+  background-color: $secondary-dark-color;
+}

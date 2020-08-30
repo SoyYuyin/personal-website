@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Roboto&display=swap');
+
+// colors
+$primary-color: white;
+$primary-dark-color:rgb(160, 160, 160);
+$secondary-color:rgb(49, 53, 53);
+$secondary-light-color: rgb(73, 78, 78);
+$secondary-dark-color: rgb(17, 19, 19);
+
+
+
+
+.primary-color{
+  color: $primary-color;
+}
+
+.dark-color{
+  color: $secondary-dark-color;
+}
+
+.primary-dark-color{
+  color: $primary-dark-color;
+}
+
+p, h2, h3 {
+  text-align: justify;
+  line-height: 1.5rem;
+}
+
+h1 {
+  font-size: 3rem;
+  text-align: center;
+  text-shadow: 2px 2px black;
+}
+
+html {
+  background-color: $secondary-color;
+  color: $primary-color;
+  font-family: 'Roboto', sans-serif;
+  // font-family: 'Open Sans', sans-serif;
+}
