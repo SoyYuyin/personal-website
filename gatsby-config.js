@@ -28,13 +28,13 @@ module.exports = {
         path: `${__dirname}/src/images/`,
       }
     },
-    {
-      resolve: `gatsby-source-filesystem`,
-      options: {
-        name: `files`,
-        path: `${__dirname}/src/files/`,
-      }
-    },
+    // {
+    //   resolve: `gatsby-source-filesystem`,
+    //   options: {
+    //     name: `files`,
+    //     path: `${__dirname}/src/files/`,
+    //   }
+    // },
     {
       resolve: `gatsby-source-contentful`,
       options: {
