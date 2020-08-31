@@ -27,7 +27,7 @@ const Home = () => {
         <h1 className= {indexStyles.textCenter}>
           Yuyin's <span className="primary-dark-color">Personal</span> Website
         </h1>
-        <h3 className="dark-color">Credit analist.</h3>
+        <h3 className="dark-color">Credit analyst.</h3>
         <h2>
           <span className="light-color">Developer</span> at heart.
         </h2>
