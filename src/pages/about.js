@@ -1,8 +1,9 @@
 import React from "react"
 import Layout from "../components/layout"
 import styles from "../styles/about.module.scss"
-import {  graphql, useStaticQuery } from "gatsby"
+import {  graphql, useStaticQuery, withPrefix} from "gatsby"
 import Image from "gatsby-image"
+
 
 
 const getImages = graphql`
@@ -49,7 +50,7 @@ const About = () => {
                     Linkedin: <a href='https://www.linkedin.com/in/soyyuyin/' target='blank'>linkedin.com/in/soyyuyin/</a>
                     </li>
                     <li>
-                      <a href='/Eugenio_Martínez_Resume_09-2020.pdf' target="blank">Get my CV</a>
+                      <a href={withPrefix('/Eugenio_Martínez_Resume_09-2020.pdf')} target="blank">Get my CV</a>
                     </li>
                   </ul>
                 </p>
