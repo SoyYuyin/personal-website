@@ -50,7 +50,7 @@ const About = () => {
                     Linkedin: <a href='https://www.linkedin.com/in/soyyuyin/' target='blank'>linkedin.com/in/soyyuyin/</a>
                     </li>
                     <li>
-                      <a href={withPrefix('/Eugenio_Martínez_Resume_09-2020.pdf')} target="blank">Get my CV</a>
+                      <a href='/EugenioMartinez2020.pdf' target="blank">Get my CV</a>
                     </li>
                   </ul>
                 </p>
