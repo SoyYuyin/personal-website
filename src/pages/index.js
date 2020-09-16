@@ -38,7 +38,7 @@ const Home = () => {
               <Image fluid={data.fluid.childImageSharp.fluid}/>
             </div>
             <div className={indexStyles.content}>
-              <p>Mastering technologies to drive changes that add value!</p>
+              <p>Love to learn new technologies and code.</p>
               <br />
               <Link to='/about' className={indexStyles.link}>Hire me!</Link>
             </div>
