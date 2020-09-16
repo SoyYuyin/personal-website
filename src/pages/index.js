@@ -29,7 +29,7 @@ const Home = () => {
         </h1>
         <h3 className="dark-color">Credit analyst.</h3>
         <h2>
-          <span className="light-color">Developer</span> at heart.
+          <span className="light-color">Conquering technology.</span> 
         </h2>
 
         <div>
@@ -38,7 +38,7 @@ const Home = () => {
               <Image fluid={data.fluid.childImageSharp.fluid}/>
             </div>
             <div className={indexStyles.content}>
-              <p>Actively looking for a job opportunity as a web developer.</p>
+              <p>Mastering technologies to drive changes that add value!</p>
               <br />
               <Link to='/about' className={indexStyles.link}>Hire me!</Link>
             </div>

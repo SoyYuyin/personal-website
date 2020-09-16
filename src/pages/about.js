@@ -1,7 +1,7 @@
 import React from "react"
 import Layout from "../components/layout"
 import styles from "../styles/about.module.scss"
-import {  graphql, useStaticQuery, withPrefix} from "gatsby"
+import {  graphql, useStaticQuery } from "gatsby"
 import Image from "gatsby-image"
 
 
@@ -64,13 +64,16 @@ const About = () => {
                 <li>HTML5</li>
                 <li>CSS</li>
                 <li>JavaScript</li>
+                <li>Python</li>
+                <li>Git</li>
                 <li>React</li>            
                 <li>Gatsby</li>
-                <li>Python</li>
                 <li>SQL</li>
-                <li>Git</li>
-                <li>Contenful</li>
+                <li>Node.js</li>
+                <li>Express</li>
+                <li>Contentul</li>
                 <li>Netlify</li>
+                <li>Adobe XD</li>
                 <li>Responsive design</li>
               </ul>
             </section>            
@@ -79,7 +82,7 @@ const About = () => {
               {/* <h4>Courses and certifications</h4> */}
                 <a href='/' className={styles.projectCard}>
                   <p><strong>Personal Website</strong></p>
-                  <p>Developed using Gatsby and Contentful</p>
+                  <p>Developed using Gatsby, Contentful as the CMS and Netlify for deployment.</p>
                 </a>
 
                 <a href='https://salonlachiripa.com/' target='blank' className={styles.projectCard}>
