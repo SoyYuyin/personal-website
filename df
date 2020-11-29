@@ -1,0 +1,90 @@
+[33mcommit 7e6c8b21d6dfdfb565e8202359f344b1a46de0b9[m[33m ([m[1;36mHEAD -> [m[1;32mdesign[m[33m, [m[1;31morigin/master[m[33m, [m[1;32mmaster[m[33m)[m
+Author: SoyYuyin <emtzhd@gmail.com>
+Date:   Sun Aug 30 20:41:28 2020 -0500
+
+    pdf link file on github
+
+[33mcommit 41b551a83ca812a9e8feca521220c89560cfd7c7[m
+Author: SoyYuyin <33614173+SoyYuyin@users.noreply.github.com>
+Date:   Sun Aug 30 20:34:26 2020 -0500
+
+    Add files via upload
+
+[33mcommit ee0990c563a462737fe4ecaf44d37fd469c8a7e2[m
+Author: SoyYuyin <emtzhd@gmail.com>
+Date:   Sun Aug 30 20:21:22 2020 -0500
+
+    trying cv link with withprefix func
+
+[33mcommit e95b061a8439bfb46c0562b95d72b0f893061b94[m
+Author: SoyYuyin <emtzhd@gmail.com>
+Date:   Sun Aug 30 20:13:51 2020 -0500
+
+    trying cv link from static folder, differnt path
+
+[33mcommit d47e14459e1df9ea2e52eea5c487c3e161065f7c[m
+Author: SoyYuyin <emtzhd@gmail.com>
+Date:   Sun Aug 30 19:52:43 2020 -0500
+
+    trying cv query through images folder
+
+[33mcommit 1e827b099a47a2907961519c03dc0e9cdb04de8e[m
+Author: SoyYuyin <emtzhd@gmail.com>
+Date:   Sun Aug 30 19:37:51 2020 -0500
+
+    added CV to static folder. Fixed typo at index
+
+[33mcommit f89d88200a3ae04caac7cf199c02e0dfe522899f[m
+Author: SoyYuyin <emtzhd@gmail.com>
+Date:   Sun Aug 30 19:12:47 2020 -0500
+
+    added Query for the CV  gatsby-source-filesystem. Fixed typo at index
+
+[33mcommit 62845a7cdcdb906482edd0ed32526a3960a210f5[m
+Author: SoyYuyin <emtzhd@gmail.com>
+Date:   Sun Aug 30 18:13:55 2020 -0500
+
+    added technologies, design to languages, updated cv
+
+[33mcommit d2e90a7a3fc6f65203e47c477d059aa9c8ad07c5[m
+Merge: 6889f97 6b8b225
+Author: SoyYuyin <emtzhd@gmail.com>
+Date:   Sun Aug 30 17:25:35 2020 -0500
+
+    Merge branch 'master' of https://github.com/SoyYuyin/personal-website
+
+[33mcommit 6889f9724d8adbb812538a930c0f5069fd64c45c[m
+Author: SoyYuyin <emtzhd@gmail.com>
+Date:   Sun Aug 30 17:25:18 2020 -0500
+
+    href blank added to linkedin link
+
+[33mcommit 46082237e82de0d7abba3ef1fb3a9e3fc080f4f4[m
+Author: SoyYuyin <emtzhd@gmail.com>
+Date:   Sun Aug 30 17:07:01 2020 -0500
+
+    ready for deployment
+
+[33mcommit 6b8b2255a1c90da30207613676f2d5ab5026ee43[m
+Author: SoyYuyin <33614173+SoyYuyin@users.noreply.github.com>
+Date:   Sun Aug 30 16:54:52 2020 -0500
+
+    Update README.md
+
+[33mcommit 32d8fcb1b2ddbf9121e64fe92f490f437228976a[m
+Author: SoyYuyin <33614173+SoyYuyin@users.noreply.github.com>
+Date:   Sun Aug 30 16:54:33 2020 -0500
+
+    Update README.md
+
+[33mcommit 316da580524f8b2307ea0a35cf86138b773e1ee5[m
+Author: SoyYuyin <emtzhd@gmail.com>
+Date:   Sun Aug 30 16:37:40 2020 -0500
+
+    Yuyin personal website
+
+[33mcommit e420262bb68ced24b633401318e35a4b22583a69[m
+Author: SoyYuyin <emtzhd@gmail.com>
+Date:   Wed Aug 19 20:56:04 2020 -0500
+
+    Initial commit from gatsby: (https://github.com/gatsbyjs/gatsby-starter-hello-world.git)
