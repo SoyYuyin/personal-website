@@ -50,7 +50,7 @@ const About = () => {
                     Linkedin: <a href='https://www.linkedin.com/in/soyyuyin/' target='blank'>linkedin.com/in/soyyuyin/</a>
                     </li>
                     <li>
-                      <a href='/EugenioMartinez2020.pdf' target="blank">Get my full CV</a>
+                      <a href='/2021-02-Eugenio-Martinez-web-developer.pdf' target="blank">Get my full CV</a>
                     </li>
                   </ul>
                 </p>
@@ -68,11 +68,13 @@ const About = () => {
                 <li>Git</li>
                 <li>React</li>            
                 <li>Gatsby</li>
+                <li>Next</li>
                 <li>SQL</li>
                 <li>Node.js</li>
                 <li>Express</li>
                 <li>Contentul</li>
                 <li>Netlify</li>
+                <li>Heroku</li>
                 <li>Adobe XD</li>
                 <li>Responsive design</li>
               </ul>
@@ -88,6 +90,11 @@ const About = () => {
                 <a href='https://salonlachiripa.com/' target='blank' className={styles.projectCard}>
                   <p><strong>La Chiripa event venue website</strong></p>
                   <p>Static website using plain HTML and CSS, hosted on Netlify</p>
+                </a>
+
+                <a href='https://mini-react-blog.herokuapp.com/' target='blank' className={styles.projectCard}>
+                  <p><strong>Mini react blog</strong></p>
+                  <p>Small react blog developed using create-react-app, hosted with Heroku, back-end emulated using My JSON Server from Typicode.</p>
                 </a>
             </section>
 
